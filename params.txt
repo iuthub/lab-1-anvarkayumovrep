@@ -1,0 +1,4 @@
+﻿{
+  "email": "anvar.kayumov.personal@gmail.com",
+  "password": "qwerty123"
+}
